@@ -1,3 +1,5 @@
+#Python Compression/Encryption Application
+
 -Only works with a .txt file
 -The original textfile will be compressed to a .mtf file
 -Only python 3
